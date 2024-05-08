@@ -1,1 +1,34 @@
+Sprint 3
+Data de entrega: 27/04
+Autor: Lucas 
 
+3. Especificação e definição do projeto
+▪︎ Especificar requisitos funcionais e não funcionais;
+▪︎ Definir ciclo de vida de desenvolvimento do software.
+
+*Requisitos Funcionais:*
+1. *Registro de Fornecedores:* Armazenar informações detalhadas sobre fornecedores.
+2. *Controle de Estoque:* Gerenciar estoque com rastreamento de lotes e validade.
+3. *Monitoramento da Produção:* Acompanhar o ciclo de produção com rastreamento de quantidades e qualidade.
+4. *Gestão de Vendas e Pedidos:* Registrar pedidos, gerenciar estoque, processar pagamentos e coordenar entregas.
+5. *Análise de Dados:* Gerar relatórios sobre desempenho de produção, vendas, custos e tendências de mercado.
+6. *Integração com Tecnologias Emergentes:* Explorar integrações com IoT, drones, IA, etc., para aumentar a eficiência.
+7. *Segurança e Privacidade:* Garantir segurança e conformidade com regulamentações de proteção de dados.
+
+*Requisitos Não Funcionais:*
+1. *Usabilidade:* Interface intuitiva e fácil para todos os membros da equipe.
+2. *Desempenho:* Resposta rápida do sistema mesmo em picos de demanda.
+3. *Confiabilidade:* Tempo mínimo de inatividade e capacidade de recuperação de falhas.
+4. *Escalabilidade:* Lidar com crescimento futuro no volume de dados e usuários.
+5. *Segurança:* Proteção contra acessos não autorizados e integridade dos dados garantida.
+6. *Compatibilidade:* Funcionamento em diferentes dispositivos e sistemas operacionais.
+7. *Manutenibilidade:* Facilidade de manutenção e atualização do sistema.
+
+*Ciclo de Vida de Desenvolvimento do Software:*
+1. *Levantamento de Requisitos:* Reconhecimento das necessidades dos stakeholders e atribuição de responsabilidades à equipe.
+2. *Análise:* Detalhamento minucioso e registro dos requisitos, tanto funcionais quanto não funcionais.
+3. *Projeto:* Elaboração da estrutura do sistema e das interfaces para os usuários.
+4. *Implementação:* Desenvolvimento do software conforme as especificações estabelecidas.
+5. *Testes:* Verificação do funcionamento adequado do sistema e identificação de possíveis falhas.
+6. *Implantação:* Lançamento do sistema em um ambiente de produção, incluindo o treinamento da equipe.
+7. *Manutenção:* Atualização, resolução de bugs e contínua adaptação do sistema às mudanças nas necessidades dos usuários.
