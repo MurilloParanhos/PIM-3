@@ -8,15 +8,15 @@ Autor: Leonardo
 
 1. *Cadastro de Fornecedores:* Capacidade de registrar informações detalhadas sobre os fornecedores, incluindo nome, contato, produtos fornecidos, certificações de qualidade, entre outros.
 
-2. *Gestão de Estoque:* Funcionalidade para controlar o estoque de insumos, produtos agrícolas e produtos finais, com recursos de rastreamento de lotes e validade.
+2. *Gestão de Estoque:* Funcionalidade para controlar o estoque de insumos, produtos agrícolas e produtos finais.
 
 3. *Controle de Produção:* Capacidade de monitorar o ciclo de produção, incluindo o plantio, colheita, tratamento e processamento dos produtos, com rastreamento de quantidades produzidas e padrões de qualidade.
 
-4. *Gestão de Vendas e Pedidos:* Sistema para registrar pedidos de clientes, gerenciar o estoque disponível para venda, processar pagamentos e coordenar entregas ou retiradas.
+4. *Gestão de Vendas e Pedidos:* Sistema para registrar pedidos de clientes, gerenciar o estoque disponível para venda, processar pagamentos.
 
-5. *Análise de Dados:* Capacidade de gerar relatórios e análises sobre o desempenho da produção, vendas, custos, margens de lucro e tendências de mercado, para apoiar tomadas de decisão estratégicas.
+5. *Análise de Dados:* Capacidade de gerar relatórios e análises sobre o desempenho da produção, vendas, custos, margens de lucro, para apoiar tomadas de decisão estratégicas.
 
-6. *Integração com Tecnologias Emergentes:* Explorar integrações com tecnologias emergentes, como IoT (Internet das Coisas), sensores agrícolas, drones para monitoramento de culturas, inteligência artificial para previsão de demanda, entre outros, para impulsionar a eficiência e a inovação.
+6. *Integração com Tecnologias Emergentes:* Explorar integrações com tecnologias emergentes, como IoT (Internet das Coisas), inteligência artificial para previsão de demanda, entre outros, para impulsionar a eficiência e a inovação.
 
 7. *Segurança e Privacidade:* Garantir que o sistema seja seguro e esteja em conformidade com regulamentações de proteção de dados, especialmente quando se trata de informações sensíveis dos clientes e fornecedores.
 
