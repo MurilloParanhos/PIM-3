@@ -8,11 +8,11 @@ Autor: Lucas
 
 *Requisitos Funcionais:*
 1. *Registro de Fornecedores:* Armazenar informações detalhadas sobre fornecedores.
-2. *Controle de Estoque:* Gerenciar estoque com rastreamento de lotes e validade.
+2. *Controle de Estoque:* Gerenciar estoque.
 3. *Monitoramento da Produção:* Acompanhar o ciclo de produção com rastreamento de quantidades e qualidade.
 4. *Gestão de Vendas e Pedidos:* Registrar pedidos, gerenciar estoque, processar pagamentos e coordenar entregas.
 5. *Análise de Dados:* Gerar relatórios sobre desempenho de produção, vendas, custos e tendências de mercado.
-6. *Integração com Tecnologias Emergentes:* Explorar integrações com IoT, drones, IA, etc., para aumentar a eficiência.
+6. *Integração com Tecnologias Emergentes:* Explorar integrações com IoT, IA, etc., para aumentar a eficiência.
 7. *Segurança e Privacidade:* Garantir segurança e conformidade com regulamentações de proteção de dados.
 
 *Requisitos Não Funcionais:*
